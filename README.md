@@ -2,10 +2,11 @@
 
 
 ## Integrantes 
+- Josue Damacio
 - Benjamin Andres Aguilera
 - Pablo Nicolas Aguilar
 - Thiago Fernandez Lado
-- Josue Damacio
+
 
 
 ## Proyecto: Semaforo
